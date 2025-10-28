@@ -1,0 +1,173 @@
+[
+    {
+        "id":1,
+        "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+        "category_id":1,
+        "name":"VIVO MOD",
+        "description":"Description Mod",
+        "config_payload":{
+            "payload":"GET wss://widgetpe.redesegura.vivo.com.br/ HTTP/1.1[crlf]Host: us.vhserver.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "sni":null
+        },
+        "config_openvpn":null,
+        "config_v2ray":null,
+        "auth":{
+            "username":"vpnhack-light",
+            "password":"1234",
+            "v2ray_uuid":null
+        },
+        "proxy":{
+            "host":"45.140.193.81#104.16.0.1#104.16.0.2#104.16.0.3#104.16.0.4#104.16.0.5#104.16.0.6#104.16.0.7#104.17.70.206#172.64.144.240#172.66.0.157",
+            "port":80
+        },
+        "server":{
+            "host":"us.vhserver.xyz",
+            "port":80
+        },
+        "dnstt_key":null,
+        "dnstt_name_server":null,
+        "dnstt_server":null,
+        "dns_server":{
+            "dns1":"8.8.8.8",
+            "dns2":"8.8.4.4"
+        },
+        "udp_ports":[
+            7300
+        ],
+        "mode":"SSH_DIRECT",
+        "tls_version":"TLSv1.2",
+        "status":"ACTIVE",
+        "url_check_user":null,
+        "icon":"https://i.ibb.co/y2CJfwR/file.png",
+        "sorter":1,
+        "created_at":"2025-04-15 21:04:36",
+        "updated_at":"2025-05-17 02:51:45",
+        "category":{
+            "id":1,
+            "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+            "name":"vivo category mod",
+            "status":"ACTIVE",
+            "sorter":3,
+            "color":"#80E122FF",
+            "created_at":"2024-10-31 13:10:29",
+            "updated_at":"2025-04-15 21:10:02"
+        },
+        "cdns":[
+            
+        ]
+    },
+    {
+        "id":2,
+        "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+        "category_id":2,
+        "name":"TIM MOD",
+        "description":"Description Mod",
+        "config_payload":{
+            "payload":"GET /app134 HTTP/1.1[crlf]Host: [cdn_rotate][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]#GET /app182 HTTP/1.1[crlf]Host: [cdn_rotate][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni":"www.c6bank.com.br"
+        },
+        "config_openvpn":null,
+        "config_v2ray":null,
+        "auth":{
+            "username":null,
+            "password":null,
+            "v2ray_uuid":null
+        },
+        "proxy":{
+            "host":"www.googletagmanager.com",
+            "port":443
+        },
+        "server":{
+            "host":"127.0.0.1",
+            "port":443
+        },
+        "dnstt_key":null,
+        "dnstt_name_server":null,
+        "dnstt_server":null,
+        "dns_server":{
+            "dns1":"1.1.1.1",
+            "dns2":"1.0.0.1"
+        },
+        "udp_ports":[
+            7300
+        ],
+        "mode":"SSL_PROXY",
+        "tls_version":"TLSv1.2",
+        "status":"ACTIVE",
+        "url_check_user":null,
+        "icon":"https://i.ibb.co/HfY733jP/file.png",
+        "sorter":1,
+        "created_at":"2025-04-28 10:38:23",
+        "updated_at":"2025-05-15 02:06:46",
+        "category":{
+            "id":2,
+            "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+            "name":"tim category mod",
+            "status":"ACTIVE",
+            "sorter":2,
+            "color":"#80178FFF",
+            "created_at":"2024-10-31 13:10:29",
+            "updated_at":"2025-04-15 21:07:48"
+        },
+        "cdns":[
+            
+        ]
+    },
+    {
+        "id":3,
+        "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+        "category_id":3,
+        "name":"CLARO MOD",
+        "description":"Description Mod",
+        "config_payload":{
+            "payload":"HTTP/ 0 0#[rotate=GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;CONNECT;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] wss://jnet25.shop HTTP/1.1[lf]Host:[][lf]Upgrade: Websocket[lf][split][lf]",
+            "sni":null
+        },
+        "config_openvpn":null,
+        "config_v2ray":null,
+        "auth":{
+            "username":null,
+            "password":null,
+            "v2ray_uuid":null
+        },
+        "proxy":{
+            "host":"45.140.193.81#104.16.0.1#104.16.0.2#104.16.0.3#104.16.0.4#104.16.0.5#104.16.0.6#104.16.0.7",
+            "port":80
+        },
+        "server":{
+            "host":"127.0.0.1",
+            "port":8888
+        },
+        "dnstt_key":"33457afb280374c353d04d283b08d7ae93978e19ad256ce84378dee6e990201b",
+        "dnstt_name_server":"ns.jnet25.shop",
+        "dnstt_server":"8.8.8.8",
+        "dns_server":{
+            "dns1":"8.8.8.8",
+            "dns2":"8.8.4.4"
+        },
+        "udp_ports":[
+            7300
+        ],
+        "mode":"SSH_DNSTT",
+        "tls_version":"TLSv1.2",
+        "status":"ACTIVE",
+        "url_check_user":null,
+        "icon":"https://i.ibb.co/TD5yVpn4/file.png",
+        "sorter":1,
+        "created_at":"2025-04-04 15:55:25",
+        "updated_at":"2025-05-17 02:53:59",
+        "category":{
+            "id":3,
+            "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
+            "name":"claro category mod",
+            "status":"ACTIVE",
+            "sorter":4,
+            "color":"#FF9F0000",
+            "created_at":"2025-05-17 02:48:45",
+            "updated_at":"2025-05-17 02:56:50"
+        },
+        "cdns":[
+            
+        ]
+    }
+]
