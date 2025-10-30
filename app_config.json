@@ -3,25 +3,25 @@
         "id":1,
         "user_id":"0ead35ad-7212-456b-814b-8d261a1eaf0a",
         "category_id":1,
-        "name":"VIVO MOD",
+        "name":"VIVO TESTE",
         "description":"Description Mod",
         "config_payload":{
-            "payload":"GET wss://widgetpe.redesegura.vivo.com.br/ HTTP/1.1[crlf]Host: us.vhserver.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "sni":null
+            "payload":"GET /app12 HTTP/1.1[lf]Host: kikoru-315851867901.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app12 HTTP/1.1[lf]Host: grandnet-490957701379.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app12 HTTP/1.1[lf]Host: kafka-902958956757.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app12 HTTP/1.1[lf]Host: redlinevpn-210399831507.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: emergencial-e-958411974868.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-615769098179.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-447091349515.southamerica-east1.run.app [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-847242040226.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-745818036853.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-751107313822.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /app107 HTTP/1.1[lf]Host: e-538354114441.southamerica-east1.run.app[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "sni": "youtube.com#lh3.google.com.br"
         },
         "config_openvpn":null,
         "config_v2ray":null,
         "auth":{
-            "username":"vpnhack-light",
-            "password":"1234",
-            "v2ray_uuid":null
+            "username":"root",
+            "password":"22365572",
+            "v2ray_uuid": null
         },
-        "proxy":{
-            "host":"45.140.193.81#104.16.0.1#104.16.0.2#104.16.0.3#104.16.0.4#104.16.0.5#104.16.0.6#104.16.0.7#104.17.70.206#172.64.144.240#172.66.0.157",
-            "port":80
+        "proxy": {
+            "host": "youtube.com#lh3.google.com.br",
+            "port": 443
         },
         "server":{
-            "host":"us.vhserver.xyz",
+            "host":"socks.connect.net.br",
             "port":80
         },
         "dnstt_key":null,
@@ -34,7 +34,7 @@
         "udp_ports":[
             7300
         ],
-        "mode":"SSH_DIRECT",
+        "mode":"SSL_PROXY",
         "tls_version":"TLSv1.2",
         "status":"ACTIVE",
         "url_check_user":null,
